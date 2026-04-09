@@ -10,7 +10,7 @@
         "colorcode": ["#955427", "#232325"],
         "composition": ["메인페이지", "서브페이지(Nav전체, 상품페이지)"],
         "features": ["풀페이지(홈)", "Axios", "정렬 및 분류", "CART", "쿠폰적용"],
-        "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/CoffeeShop.png",
+        "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/MoviePage.png",
         "weblink": "https://jjh1129jh.github.io/CoffeeShop/",
         "textcolor": "rgb(238, 238, 238)"
     },
@@ -25,7 +25,7 @@
         "colorcode": ["#955427", "#232325"],
         "composition": ["메인페이지", "서브페이지(Nav전체, 상품페이지)"],
         "features": ["풀페이지(홈)", "Axios", "정렬 및 분류", "CART", "쿠폰적용"],
-        "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/CoffeeShop.png",
+        "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/New_Portfolio.png",
         "weblink": "https://jjh1129jh.github.io/CoffeeShop/",
         "textcolor": "rgb(238, 238, 238)"
     },
