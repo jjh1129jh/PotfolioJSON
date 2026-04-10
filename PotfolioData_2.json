@@ -434,7 +434,12 @@
         "participants": "18명 +",
         "responsibilities": "프로토타입 개발 및 양산",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_4.png",
-        "weblink": ["/keris/01/01.html", "/keris/02/01.html", "/keris/03/01.html", "/keris/04/01.html"],
+        "weblink": [
+            "https://old-portfolio-beta.vercel.app/keris/01/01.html",
+            "https://old-portfolio-beta.vercel.app/keris/02/01.html",
+            "https://old-portfolio-beta.vercel.app/keris/03/01.html",
+            "https://old-portfolio-beta.vercel.app/keris/04/01.html"
+        ],
         "bgcolor": "#627fa0",
         "image" : [
             {
