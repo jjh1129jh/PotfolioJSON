@@ -4,7 +4,7 @@
         "name": "세븐브릭스 학습 페이지",
         "Language": ["css", "jquery"],
         "contentS": "학습활동을 하면서 자신만의 비버를 꾸밀수있는 교육콘텐츠입니다.",
-        "contentL": "학습활동을 하면서 자신만의 비버를 꾸밀수있는 교육콘텐츠입니다. DB기반으로 사용자 정보를 불러와서 진도체크와 일일학습, 중간고사, 기말고사등을 볼 수 있습니다. (* DB를 개인이 접근할수없어 링크를 불러올수없습니다. )",
+        "contentL": "학습활동을 하면서 자신만의 비버를 꾸밀수있는 교육콘텐츠입니다. DB기반으로 사용자 정보를 불러와서 진도체크와 일일학습, 중간고사, 기말고사등을 볼 수 있습니다. ( * DB를 개인이 접근할수없어 링크를 불러올수없습니다. )",
         "contribution": "★★★★★",
         "participants": "3명",
         "responsibilities": "개발 및 디자인",
@@ -469,7 +469,12 @@
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_3.png",
         "weblink": [],
         "bgcolor": "#afa496",
-        "image" : [],
+        "image" : [
+            {
+                "img" : "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_3.png",
+                "text" : "SAMPLE IMAGE"
+            }
+        ],
         "imageS" : [],
         "objcolor": "#6f4620"
     },
@@ -485,7 +490,12 @@
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_2.png",
         "weblink": [],
         "bgcolor": "#7f9ec0",
-        "image" : [],
+        "image" : [
+            {
+                "img" : "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_2.png",
+                "text" : "SAMPLE IMAGE"
+            }
+        ],
         "imageS" : [],
         "objcolor": "#a5cae7"
     },
@@ -501,7 +511,12 @@
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_1.png",
         "weblink": [],
         "bgcolor": "#2e0e4d",
-        "image" : [],
+        "image" : [
+            {
+                "img" : "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_1.png",
+                "text" : "SAMPLE IMAGE"
+            }
+        ],
         "imageS" : [],
         "objcolor": "#82659e"
     }

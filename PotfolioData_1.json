@@ -335,7 +335,7 @@
         "imageS" : [
             {
                 "img" : "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/DONGBANG_Pc.png",
-                "text" : "반응형 표준"
+                "text" : "PC 단일 페이지"
             }
         ],
         "weblink": "https://jhdongbang.vercel.app/"
