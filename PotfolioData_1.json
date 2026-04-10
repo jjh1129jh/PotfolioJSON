@@ -9,19 +9,19 @@
         "composition": ["메인페이지", "서브페이지(Nav전체, 상품페이지)"],
         "features": ["풀페이지(홈)", "Axios", "정렬 및 분류", "CART", "쿠폰적용"],
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/MoviePage.png",
-        "weblink": "https://jjh1129jh.github.io/CoffeeShop/"
+        "weblink": "https://nextmovie-page.vercel.app/"
     },
     {
         "id": 1,
         "name": "NEW PORTFOLIO",
         "Language": ["tailwind", "react", "next.js"],
-        "contentS": "최신버전 포트폴리오입니다.",
-        "contentL": "최신버전 포트폴리오입니다.",
+        "contentS": "2026 최신 포트폴리오입니다.",
+        "contentL": "2026 최신 포트폴리오입니다.",
         "colorcode": "#ff4d5a",
         "composition": ["메인페이지", "서브페이지(Nav전체, 상품페이지)"],
         "features": ["풀페이지(홈)", "Axios", "정렬 및 분류", "CART", "쿠폰적용"],
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/New_Portfolio.png",
-        "weblink": "https://jjh1129jh.github.io/CoffeeShop/"
+        "weblink": "https://nextportfoliojjh.vercel.app/"
     },
     {
         "id": 2,
@@ -51,8 +51,8 @@
         "id": 4,
         "name": "OLD PORTFOLIO",
         "Language": ["scss", "react"],
-        "contentS": "정지환의 포트폴리오 홈페이지 입니다.",
-        "contentL": "정지환의 포트폴리오 홈페이지 입니다.",
+        "contentS": "이전에 사용하던 React기반 포트폴리오입니다.",
+        "contentL": "이전에 사용하던 React기반 포트폴리오입니다.",
         "colorcode": "#dfb475",
         "composition": ["메인페이지"],
         "features": ["풀페이지", "스와이퍼"],

@@ -9,7 +9,7 @@
         "participants": "3명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_15.png",
-        "weblink": ["https://jjh1129jh.github.io/colorado"],
+        "weblink": [],
         "bgcolor": "#353535",
         "objcolor": "#e3ba4e"
     },
@@ -23,7 +23,7 @@
         "participants": "3명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_14.png",
-        "weblink": ["https://jjh1129jh.github.io/colorado"],
+        "weblink": ["https://samhago.com/"],
         "bgcolor": "#353535",
         "objcolor": "#e3ba4e"
     },
@@ -37,7 +37,7 @@
         "participants": "3명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_13.png",
-        "weblink": ["https://jjh1129jh.github.io/colorado"],
+        "weblink": ["https://commercial-sevenbricksoms.vercel.app/html/html/parentsclassSelect.html"],
         "bgcolor": "#353535",
         "objcolor": "#e3ba4e"
     },
@@ -51,7 +51,7 @@
         "participants": "3명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_12.png",
-        "weblink": ["https://jjh1129jh.github.io/colorado"],
+        "weblink": ["https://commercial-sevenbricksoms.vercel.app/html/html/userclassSelect.html"],
         "bgcolor": "#353535",
         "objcolor": "#e3ba4e"
     },
@@ -65,7 +65,7 @@
         "participants": "3명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_11.png",
-        "weblink": ["https://jjh1129jh.github.io/colorado"],
+        "weblink": ["https://commercial-colorado.vercel.app/"],
         "bgcolor": "#353535",
         "objcolor": "#e3ba4e"
     },
@@ -79,7 +79,7 @@
         "participants": "3명",
         "responsibilities": "프로토타입 개발 및 양산",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_10.png",
-        "weblink": ["https://jjh1129jh.github.io/art4/arte4.html"],
+        "weblink": ["https://commercial-art4.vercel.app/"],
         "bgcolor": "#9b9372ff",
         "objcolor": "#f05a94"
     },
@@ -94,10 +94,10 @@
         "responsibilities": "프로토타입 개발 및 양산",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_9.png",
         "weblink": [
-            "https://jjh1129jh.github.io/kolon/03/03_01.html",
-            "https://jjh1129jh.github.io/integrated/02/group1/02/02_04.html",
-            "https://jjh1129jh.github.io/integrated/02/group1/02/02_03.html",
-            "https://jjh1129jh.github.io/integrated/02/group2/03/03_04.html"
+            "https://commercial-kolon.vercel.app/03/03_01.html",
+            "https://commercial-integrated.vercel.app/02/group1/02/02_04.html",
+            "https://commercial-integrated.vercel.app/02/group1/02/02_03.html",
+            "https://commercial-integrated.vercel.app/02/group2/03/03_04.html"
         ],
         "bgcolor": "#9c1621",
         "objcolor": "coral"
@@ -113,10 +113,10 @@
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_8.png",
         "weblink": [
-            "https://jjh1129jh.github.io/integrated/01/01/01_01.html",
-            "https://jjh1129jh.github.io/integrated/01/04/04_01.html",
-            "https://jjh1129jh.github.io/integrated/01/03/03_01.html",
-            "https://jjh1129jh.github.io/integrated/01/03/03_02.html"
+            "https://commercial-integrated.vercel.app/01/01/01_01.html",
+            "https://commercial-integrated.vercel.app/01/04/04_01.html",
+            "https://commercial-integrated.vercel.app/01/03/03_01.html",
+            "https://commercial-integrated.vercel.app/01/03/03_02.html"
         ],
         "bgcolor": "#66687eff",
         "objcolor": "#325175ff"
@@ -131,7 +131,7 @@
         "participants": "1명",
         "responsibilities": "단독 프로젝트",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_7.png",
-        "weblink": ["https://jjh1129jh.github.io/inspection"],
+        "weblink": ["https://commercial-inspection.vercel.app/"],
         "bgcolor": "#8294a8ff",
         "objcolor": "#4a88d4ff"
     },
@@ -145,7 +145,7 @@
         "participants": "2명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_6.png",
-        "weblink": ["https://jjh1129jh.github.io/daeguhanui/01/01_01.html"],
+        "weblink": ["https://commercial-daeguhanui.vercel.app/01/01_01.html"],
         "bgcolor": "#19363c",
         "objcolor": "#269da9"
     },
@@ -159,7 +159,7 @@
         "participants": "2명",
         "responsibilities": "개발 및 디자인",
         "MainImages": "https://raw.githubusercontent.com/jjh1129jh/PotfolioJSON/refs/heads/main/img/Commercial_5.png",
-        "weblink": ["https://jjh1129jh.github.io/garden/01/01_01.html"],
+        "weblink": ["https://commercial-garden.vercel.app/01/01_02.html"],
         "bgcolor": "#435536ff",
         "objcolor": "#006b5f"
     },
